@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+# fiex a new bug in React native
+
 <p align="center">
   <strong>Learn once, write anywhere:</strong><br>
   Build mobile apps with React.
